@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Virtual Labs</title>
+  <link rel="stylesheet" href="../css/main.css" />
+</head>
+<body>
+
+  <!-- Header Area -->
+<nav>
+    <div > 
+      <img class="logo1" src="../images\header.png" alt="vlabs logo"/>
+    </div>
+  <span class="vlabs">Conic Section</span>
+    <div >     
+       <img class="logo2" src="../images\dei.jpg" alt="dei logo" />
+    </div>
+  </nav>
+
+  <!---red line---->
+
+  <div class="redline"></div>
+
+
+  <!-- gray line -->
+
+  <div class="line"></div>
+
+  <!-- container box -->
+
+  <div class="hero">
+    <div id="container">
+      <h1 class="projection">CONIC SECTIONS</h1>
+      <div class="step" >
+      <div class="texts" >
+        <p style="font-size: 17px; padding: 30px; " >
+         <i id="main1">Setup the drawing board using sheet,clips and mini dragter place the drawing sheet on the drawing board.</i> 
+         <i id="main2" >Setup the drawing board using sheet,clips and mini dragter. place the mini drafter on the sheet. Clip the four corners of the sheet carefully.</i> 
+         <br>
+         <br>
+         <br>
+         <i id="substep">Click on a sheet</i>
+         <i id="substep1">Click on clips and drafter to set up on board</i>
+         <img class="subarrow" src="../images/arrow.gif">
+        </p>
+      </div>
+
+      <div class="content">
+
+
+        <img id="board"  src="../images\drawing board.png" style="visibility: visible;">
+
+        <img id="sheet" src="../images\sheet.png" style="visibility: visible;">
+
+        <img id="transbox" src="../images\png's and gif's\transbox.png" style="visibility: visible;">
+
+        <!-- <img id="gif-1" class=" " src="../images\png's and gif's\gif-1.gif" height="450px" style="visibility: hidden"> -->
+
+        <img id="drafter-out" src="../images/drafter.png" style="visibility: hidden;" >
+
+        <img id="drafter-in" src="../images/DRAFTER1.png" style="visibility: hidden;">
+
+        <img class="board1 " src=" ../images\drawing board.png" style="visibility: hidden;">
+
+        <img class="sheet1 " src="../images\sheet.png" style="visibility:hidden;">
+
+        <img id="clip1" src="../images\png's and gif's\3D Clips.png"  style="visibility: hidden;" onclick="clipmove1()">
+
+        <img id="clip2" src="../images\png's and gif's\3D Clips.png"  style="visibility: hidden;" onclick="clipmove2()">
+
+        <img id="clip3" src="../images\png's and gif's\3D Clips.png"  style="visibility: hidden;" onclick="clipmove3()">
+
+        <img id="clip4"  src="../images\png's and gif's\3D Clips.png" style="visibility: hidden;" onclick="clipmove4()">
+
+        <img  id="boardclip1" src="../images\clips.png" style="visibility: hidden;">
+
+        <img  id="boardclip2" src="../images\clips.png" style="visibility: hidden;">
+
+        <img  id="boardclip3" src="../images\cclip.png" style="visibility: hidden;">
+
+        <img  id="boardclip4" src="../images\cclip.png" style="visibility: hidden;">
+        
+        <button id="next" onclick="parent.location='./step1.html'" >Next Step</button>
+
+      </div>
+    </div>
+
+    <!-- ----------------board setup javascript--------------- -->
+
+    <script src="../js/starter.js"></script>
+</body>

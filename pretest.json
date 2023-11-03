@@ -1,0 +1,115 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Which of the following is a closed figure? ",
+      "answers": {
+        "a": "Ellipse ",
+        "b": "Hyperbola ",
+        "c": "Parabola ",
+        "d": "All of the above "
+      },
+      "explanations": {
+        "a": "Ellipse "
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. What does the eccentricity of a conic section determine?",
+      "answers": {
+        "a": "Area",
+        "b": "Perimeter",
+        "c": "Shape",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "c": "Shape "
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. The section obtained when the cone is cut by a plane at an angle of 90° with the axis is called ____?",
+      "answers": {
+        "a": "Ellipse",
+        "b": "Hyperbola",
+        "c": "Parabola",
+        "d": "Circle"
+      },
+      "explanations": {
+        "d": "Circle"
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "4. A parabola has a single focus and a single directrix.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "b": "True"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "5. What is the point at which the conic cuts its axis called? ",
+      "answers": {
+        "a": "Directrix ",
+        "b": "Vertex",
+        "c": "Focus",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "b": "Vertex"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "6. Mathematically, an ellipse is illustrated by the equation ____? ",
+      "answers": {
+        "a": "x² / a² + y² / b² = 1",
+        "b": "x²= 4ay",
+        "c": "x²/ a² – y² / b² = 1",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "x² / a² + y² / b² = 1"
+      },
+      "correctAnswer": "a",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "7. What does the equation y= 4x²+ 3x + 5 represent?",
+      "answers": {
+        "a": "Parabola",
+        "b": "Circle",
+        "c": "Ellipse",
+        "d": "Hyperbola"
+      },
+      "explanations": {
+        "a": "Parabola"
+      },
+      "correctAnswer": "d",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "8. What does the equation (x²/ 36) – ( y²/ 9) = 1 represent?",
+      "answers": {
+        "a": "Parabola",
+        "b": "Hyperbola",
+        "c": "Ellipse",
+        "d": "Circle"
+      },
+      "explanations": {
+        "b": "Hyperbola"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    }
+  ]
+}

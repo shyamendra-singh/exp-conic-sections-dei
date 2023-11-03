@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Virtual Labs</title>
+    <link rel="stylesheet" href="../css/main.css" />
+  </head>
+  <body>
+    <!-- Header Area -->
+
+  <nav>
+    <div > 
+      <img class="logo1" src="../images\header.png" alt="vlabs logo"/>
+    </div>
+  <span class="vlabs">Conic Section</span>
+    <div >     
+       <img class="logo2" src="../images\dei.jpg" alt="dei logo" />
+    </div>
+  </nav>
+
+  <!---red line---->
+
+  <div class="redline"></div>
+
+
+    <!-- gray line -->
+
+    <div class="line"></div>
+
+       <!-- container box -->
+
+       <div class="hero">
+        <div id="container">
+          <h1 class="projection">CONIC SECTION</h1>
+            <div class="step1">
+                <div class="texts">
+                    <p style="font-size: 17px;">
+                      <b style="font-size:20px;">STEP</b> 
+                      <span style="font-size: 25px;font-weight: 600; border-radius: 5px; background-color: rgb(20,117,228);color:white;padding: 2px 5px;">11</span>
+                     <i>Locate the point in the parabola where the tangent and normal has to be drawn</i> 
+                    </p>
+                </div>
+                <div class="content11">
+
+                  <div id="whitebox2"></div>
+                  
+                  <!-- ----------------------tool box---------------------- -->
+
+                  
+                  <img src="../images/assembly.png" alt="assembly-png" class="assembly" id="assembly">
+
+                  <img src="../images/arrow.gif" alt="arr" id="arr1">
+
+                  <img src="../images/png's and gif's/transbox.png" alt="transbox" class="exp-transboxes" id="trans1" onclick="drop()">
+
+                  <!-- ------------t-----ool box items ended---------------------- -->
+
+                  <img id="nineteen" src="../images/nineteen.png" height="360px" width=600px style="visibility: visible;">
+                  
+                  <img id="gif15" src="../images/gif15.gif" height="360px" width=600px style="visibility: hidden;">
+                  
+                  <img id="twenty" src="../images/twenty.png" height="360px" width=600px style="visibility: hidden;">
+
+                  <img id="transbox12" src="../images/png's and gif's/transbox.png"  style="visibility: visible;" onclick="gif15()">
+                  
+                  <img id="arrow1" src="../images/arrow.gif" height="40px">
+  
+                  <button id="next" onclick="parent.location='../problem-1/step12.html'">Next Step</button>
+
+                         <!-- ----------------selection---------- -->
+
+                         <select name="choice" id="dropMenu1" class="dropMenu">
+                          <option value="default">Select</option>
+                          <option value="hPencil">H Pencil</option>
+                          <option value="2hPencil">2H Pencil</option>
+                          <option value="3hPencil">3H Pencil</option>
+                        </select>
+
+                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <script src="../js/index.js"></script>
+  </body>
+</html>

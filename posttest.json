@@ -1,0 +1,131 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. What is the eccentricity if the distance from the directrix is 50 units and the distance from the focus is 20 units?",
+      "answers": {
+        "a": "0.8",
+        "b": "0.2",
+        "c": "0.5",
+        "d": "0.4"
+      },
+      "explanations": {
+        "d": "0.4"
+      },
+      "correctAnswer": "d",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "2. For hyperbola, the ratio of the distance of point from the focus to the distance of point from the directrix is____?",
+      "answers": {
+        "a": "Equal to 1 ",
+        "b": "Greater than 1",
+        "c": "Less than 1 ",
+        "d": "None of the above "
+      },
+      "explanations": {
+        "b": "Greater than 1"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "3. Which of the following conic section is formed if the distance of point from the directrix is 35 units and the distance of point from the focus is 45 units? ",
+      "answers": {
+        "a": "Ellipse ",
+        "b": "Parabola ",
+        "c": "Ellipse ",
+        "d": "Circle "
+      },
+      "explanations": {
+        "a": "Hyperbola"
+      },
+      "correctAnswer": "a",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "4. Which of the conic section if formed, if the eccentricity is 0.333 ",
+      "answers": {
+        "a": "Ellipse ",
+        "b": "Parabola ",
+        "c": "Ellipse ",
+        "d": "Circle "
+      },
+      "explanations": {
+        "b": "Ellipse"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "5. The eccentricity of a circle is ____.",
+      "answers": {
+        "a": "1",
+        "b": "Greater than 1",
+        "c": "Less than 1 ",
+        "d": "0"
+      },
+      "explanations": {
+        "d": "0"
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "6. Which of the following statement is correct? ",
+      "answers": {
+        "a": "The distance between the foci of an ellipse is the minor axis.",
+        "b": "The distance between the foci of an ellipse is twice the length of the major axis.",
+        "c": "The distance between the foci of an ellipse is the major axis. ",
+        "d": "The distance between the foci of an ellipse is twice the length of the minor axis."
+      },
+      "explanations": {
+        "d": "The distance between the foci of an ellipse is twice the length of the minor axis."
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "7. The practical application of a parabola is in_____?",
+      "answers": {
+        "a": "Water channels ",
+        "b": "Cooling towers ",
+        "c": "Light reflectors ",
+        "d": "None of the above "
+      },
+      "explanations": {
+        "c": "Light reflectors"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. Which of the following conic section is formed if the distance from a fixed point is equal to the distance from a fixed straight line?" ,
+      "answers": {
+        "a": "Hyperbola ",
+        "b": "Parabola ",
+        "c": "Ellipse  ",
+        "d": "Circle "
+      },
+      "explanations": {
+        "b": "Parabola"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. Which of the following conic section is formed by the intersection of a plane with both halves of a double cone?" ,
+      "answers": {
+        "a": "Parabola ",
+        "b": "Ellipse",
+        "c": "Hyperbola  ",
+        "d": "Circle "
+      },
+      "explanations": {
+        "c": "Hyperbola"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
