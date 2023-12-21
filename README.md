@@ -20,5 +20,6 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | <b> Anuj Tripathi | Faculty of Enfineering | Civil Engineering | Dayalbagh Educational Institute | <b> atripati1253@gmail.com
-2 | <b> Shyamendra Tomar | Faculty of Engineering | Agriculture Engineering | Dayalbagh Educational Institute | <b> shyamendratomar736@gmail.com
+1 | <b> Anuj Tripathi | Faculty of Engineering | Civil Engineering | Dayalbagh Educational Institute | <b> atripati1253@gmail.com
+2 | <b> Ana Rehman | Faculty of Engineering | Civil Engineering | Dayalbagh Educational Institute | <b> anarehmanana@gmail.com
+3 | <b> Shyamendra Singh | Faculty of Engineering | Agricultural Engineering | Dayalbagh Educational Institute | <b> shyamendra.me@gmail.com
